@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is a simple implementation of the classic Tic-Tac-Toe game. You can play against a friend or against the computer.
+This is a simple implementation of the classic Tic-Tac-Toe game.
 
 To play the game, simply click on the grid to place your X or O. The game will automatically switch turns between players.
 
